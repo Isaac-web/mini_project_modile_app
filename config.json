@@ -1,0 +1,16 @@
+{
+  "colors": {
+    "danger": "#bb2124",
+    "primary": "#6475ff",
+    "secondary": "#D69529",
+    "black": "#000000",
+    "white": "#ffffff",
+    "light": "#E6E6E6",
+    "medium": "#a8aac0",
+    "dark": "#2e2e2e",
+    "transparent": "rgba(0, 0, 0, 0)"
+  },
+  "route": {
+    "onboarding": "false"
+  }
+}
